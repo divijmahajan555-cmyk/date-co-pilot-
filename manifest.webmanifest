@@ -1,1 +1,10 @@
+{
+  "name": "Date Co-Pilot",
+  "short_name": "Date Co-Pilot",
+  "description": "Private dating reply coach with OCR, tone-based suggestions, learning, and style memory.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#ff5c8a"
+}
 
